@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me via my mail adewalesolomonishola@gmail.com
+- 📫 Reach me via my mail adewalesolomonishola@gmail.com
 
 <!---
 AdewaleIshola09/AdewaleIshola09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
